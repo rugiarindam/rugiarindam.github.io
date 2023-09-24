@@ -26,7 +26,8 @@ Click on the links to get the PDFs.
 
 * [Dense Divisors of the Null Matrix](#): Proved quick bound regarding the density (defined as the number of non-zero entries of a matrix divided by the size of total number of entries in the matrix) of matrices which multiply with each other to give the null matrix.
 * [A Number Theoretic Identity](#):  
-* [Fullerenes](#): Wrote an expository article explaining why all fullerenes have exactly 12 pentagonal faces.
+* Published over 25 [solutions](#) in mathematical magazines such as Awesome Math (Mathematical Reflections), Math Excalibur and Arhimede
+* [Fullerenes](#): Wrote an article explaining why all fullerenes have exactly 12 pentagonal faces.
 * [Silicates](#): Calculated the exact formulae of various silicate polymers
 * [Copper Compound Complexes](#): Verified the predictions of Crystal Field Theory regarding the colors of copper compounds
 
