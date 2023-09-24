@@ -17,14 +17,17 @@ Click on the links to get the PDFs.
 * [The Goldreich-Levin Theorem](#): Studied the proof of the Goldreich-Levin theorem, and presented it (you can find the [slides here](#))
 * [Ehrenfeucht-Fraïssé games](#): Explored the Methodology theorem and Hanf’s theorem (and their applications in proving the non-FO expressibility of various predicates) from the book [Descriptive Complexity](https://link.springer.com/book/10.1007/978-1-4612-0539-5) by Neil Immerman
 * [Group Theory Exercises](#): Solved an exhaustive variety of group theory and ring theory exercises from [I.N. Herstein](https://marinazahara22.files.wordpress.com/2013/10/i-n-herstein-topics-in-algebra-2nd-edition-1975-wiley-international-editions-john-wiley-and-sons-wie-1975.pdf) and [Dummitt and Foote](https://handoutset.com/wp-content/uploads/2022/07/Abstract-Algebra-3rd-Edition-David-S.-Dummit-Richard-M.-Foote.pdf)'s classic books on the same
+* [Second year polymath](#):
+* [Niranjan Scribe](#):
+* [Akash Sir project](#):
+* [BTP Thesis](#):
 
 ### High School and Early Undergraduate Writings
 
-* 
-* g
-* g
-* g
-* g
-* g
+* [Dense Divisors of the Null Matrix](#): Proved quick bound regarding the density (defined as the number of non-zero entries of a matrix divided by the size of total number of entries in the matrix) of matrices which multiply with each other to give the null matrix.
+* [A Number Theoretic Identity](#):  
+* [Fullerenes](#): Wrote an expository article explaining why all fullerenes have exactly 12 pentagonal faces.
+* [Silicates](#): Calculated the exact formulae of various silicate polymers
+* [Copper Compound Complexes](#): Verified the predictions of Crystal Field Theory regarding the colors of copper compounds
 
 
