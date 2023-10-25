@@ -21,11 +21,11 @@ Click on the links to get the PDFs.
 
 ### High School and Early Undergraduate Writings
 
-* [Dense Divisors of the Null Matrix](#): Proved quick bound regarding the density (defined as the number of non-zero entries of a matrix divided by the size of total number of entries in the matrix) of matrices which multiply with each other to give the null matrix.
-* [A Number Theoretic Identity](#):  
+* [Dense Divisors of the Null Matrix](https://github.com/arponbasu/Linear_Algebra_SelfExploration_2ndSem/blob/main/Dense%20divisors%20of%20a%20null%20matrix.pdf): Proved quick bound regarding the density (defined as the number of non-zero entries of a matrix divided by the size of total number of entries in the matrix) of matrices which multiply with each other to give the null matrix.
+* [A Number Theoretic Identity](https://github.com/arponbasu/Linear_Algebra_SelfExploration_2ndSem/blob/main/A_Number_Theory_Theorem.pdf): Proved an amusing number theoretic identity by counting the number of edges of a certain poset 
 * Published over 25 [solutions](#) in mathematical magazines such as Awesome Math (Mathematical Reflections), Math Excalibur and Arhimede
-* [Fullerenes](#): Wrote an article explaining why all fullerenes have exactly 12 pentagonal faces.
-* [Silicates](#): Calculated the exact formulae of various silicate polymers
-* [Copper Compound Complexes](#): Verified the predictions of Crystal Field Theory regarding the colors of copper compounds
+* [Fullerenes](https://github.com/arponbasu/Chemistry_Articles_HighSchool/blob/main/Fullerenes%20CALE%20Submission.pdf): Wrote an article explaining why all fullerenes have exactly 12 pentagonal faces.
+* [Silicates](https://github.com/arponbasu/Chemistry_Articles_HighSchool/blob/main/silicates%20CALE%20Submission.pdf): Calculated the exact formulae of various silicate polymers
+* [Copper Compound Complexes](https://github.com/arponbasu/Chemistry_Articles_HighSchool/blob/main/CopperCompoundColors.pdf): Verified the predictions of Crystal Field Theory regarding the colors of copper compounds
 
 
