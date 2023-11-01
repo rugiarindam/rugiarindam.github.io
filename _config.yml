@@ -6,7 +6,7 @@
 title:               Arpon Basu
 tagline:             
 url:                 http://lanyon.getpoole.com
-baseurl:             ''
+baseurl:             'rugiarindam.github.io'
 paginate:            1
 markdown:            kramdown
 
@@ -37,7 +37,6 @@ social-network-links:
 #  twitter: yourname
 #  reddit: yourname
 #  linkedin: yourname
-# stackexchange: "10918067/amit-rajaraman"
 #  spotify: 
 #  telephone: 
 #  steam: 
