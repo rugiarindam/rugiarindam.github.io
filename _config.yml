@@ -6,7 +6,7 @@
 title:               Arpon Basu
 tagline:             
 url:                 http://lanyon.getpoole.com
-baseurl:             'rugiarindam.github.io'
+baseurl:             ''
 paginate:            1
 markdown:            kramdown
 
