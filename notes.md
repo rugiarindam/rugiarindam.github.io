@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Expository Writings
+title: Writings
 ---
 
 Here are some expository writings of mine over the years. Scroll below to find some more writings from my high school days.<br>
