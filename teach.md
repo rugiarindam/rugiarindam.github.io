@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching Experience
+title: Teaching
 ---
 
 I have TA'd for 4 courses so far at IIT Bombay, and I've enjoyed this experience a lot. Among other things, my experience has involved conducting tutorials (recitations), grading assignments and examination papers, and clearing student queries personally. Some courses I have TA'd for are:
