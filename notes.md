@@ -27,5 +27,6 @@ Click on the links to get the PDFs.
 * [Fullerenes](https://github.com/arponbasu/Chemistry_Articles_HighSchool/blob/main/Fullerenes%20CALE%20Submission.pdf){:target="_blank"}: Wrote an article explaining why all fullerenes have exactly 12 pentagonal faces.
 * [Silicates](https://github.com/arponbasu/Chemistry_Articles_HighSchool/blob/main/silicates%20CALE%20Submission.pdf){:target="_blank"}: Calculated the exact formulae of various silicate polymers
 * [Copper Compound Complexes](https://github.com/arponbasu/Chemistry_Articles_HighSchool/blob/main/CopperCompoundColors.pdf){:target="_blank"}: Verified the predictions of Crystal Field Theory regarding the colors of copper compounds
-
+<br><br>
+<a href="https://info.flagcounter.com/Zl3n"><img src="https://s11.flagcounter.com/count2/Zl3n/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
