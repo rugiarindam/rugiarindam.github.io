@@ -24,11 +24,11 @@ Click on the links to get the PDFs.
 
 ### High School and Early Undergraduate Writings
 
-1. [Dense Divisors of the Null Matrix](https://github.com/arponbasu/Linear_Algebra_SelfExploration_2ndSem/blob/main/Dense%20divisors%20of%20a%20null%20matrix.pdf){:target="_blank"}: Proved quick bound regarding the density (defined as the number of non-zero entries of a matrix divided by the size of total number of entries in the matrix) of matrices which multiply with each other to give the null matrix.
-2. [A Number Theoretic Identity](https://github.com/arponbasu/Linear_Algebra_SelfExploration_2ndSem/blob/main/A_Number_Theory_Theorem.pdf){:target="_blank"}: Proved an amusing number theoretic identity by counting the number of edges of a certain poset .
-3. [Fullerenes](https://github.com/arponbasu/Chemistry_Articles_HighSchool/blob/main/Fullerenes%20CALE%20Submission.pdf){:target="_blank"}: Wrote an article explaining why all fullerenes have exactly 12 pentagonal faces.
-4. [Silicates](https://github.com/arponbasu/Chemistry_Articles_HighSchool/blob/main/silicates%20CALE%20Submission.pdf){:target="_blank"}: Calculated the exact formulae of various silicate polymers.
-5. [Copper Compound Complexes](https://github.com/arponbasu/Chemistry_Articles_HighSchool/blob/main/CopperCompoundColors.pdf){:target="_blank"}: Verified the predictions of Crystal Field Theory regarding the colors of copper compounds.
+1. [Dense Divisors of the Null Matrix](./High_School/Dense_divisors_of_a_null_matrix.pdf){:target="_blank"}: Proved quick bound regarding the density (defined as the number of non-zero entries of a matrix divided by the size of total number of entries in the matrix) of matrices which multiply with each other to give the null matrix.
+2. [A Number Theoretic Identity](./High_School/A_Number_Theory_Theorem.pdf){:target="_blank"}: Proved an amusing number theoretic identity by counting the number of edges of a certain poset .
+3. [Fullerenes](./High_School/Fullerenes_CALE_Submission.pdf){:target="_blank"}: Wrote an article explaining why all fullerenes have exactly 12 pentagonal faces.
+4. [Silicates](./High_School/silicates_CALE_Submission.pdf){:target="_blank"}: Calculated the exact formulae of various silicate polymers.
+5. [Copper Compound Complexes](./High_School/CopperCompoundColors.pdf){:target="_blank"}: Verified the predictions of Crystal Field Theory regarding the colors of copper compounds.
 
 
 
