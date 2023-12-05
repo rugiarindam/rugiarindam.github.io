@@ -8,7 +8,7 @@ Click on the links to get the PDFs.
 
 ### Undergraduate Writings
 
-1. [Log-Concave Polynomials](https://drive.google.com/file/d/1rAOeDTLFI7s4FmZsOJNaZ3IOJuPQ3Sso/view?usp=sharing){:target="_blank"}: Prepared an expository report on the technique of log-concave polynomials, especially as pioneered by [Shayan Oveis Gharan](https://homes.cs.washington.edu/~shayan/){:target="_blank"}, [Nima Anari](https://nimaanari.com/){:target="_blank"}, [Kuikui Liu](https://dblp.org/pid/230/3619.html){:target="_blank"}, and [Cynthia Vinzant](https://sites.math.washington.edu/~vinzant/){:target="_blank"}. Covered a proof of Mason’s conjecture, and deterministic and randomized matroid base counting algorithms, including a proof of the Mihail-Vazirani conjecture.
+1. [Log-Concave Polynomials](./Expository_Writings/log_concave_polynomials.pdf){:target="_blank"}: Prepared an expository report on the technique of log-concave polynomials, especially as pioneered by [Shayan Oveis Gharan](https://homes.cs.washington.edu/~shayan/){:target="_blank"}, [Nima Anari](https://nimaanari.com/){:target="_blank"}, [Kuikui Liu](https://dblp.org/pid/230/3619.html){:target="_blank"}, and [Cynthia Vinzant](https://sites.math.washington.edu/~vinzant/){:target="_blank"}. Covered a proof of Mason’s conjecture, and deterministic and randomized matroid base counting algorithms, including a proof of the Mihail-Vazirani conjecture.
 2. [Sum-of-Squares Hierarchy](https://drive.google.com/file/d/1hwomvZVkW_2IdMP4RU0CpBxqalCGozHh/view?usp=sharing){:target="_blank"}: Prepared an report of the Sum-of-Squares Hierarchy from [Pravesh Kothari](http://www.cs.cmu.edu/~praveshk/){:target="_blank"}’s lecture series on the same, and covered Goemans-Williamson’s Max-Cut algorithm, Nesterov’s \\(\pi/2\\)-theorem, Arora-Rao-Vazirani’s conductance algorithm, Grigoriev’s lower bounds on the \\(k\\)-XOR problem through SoS, and SoS vs. spectral refutation algorithms.
 3. [Percolation Theory](https://drive.google.com/file/d/1wCG0CJjueyIjOReaUijsyowXxjEH_oF7/view?usp=sharing){:target="_blank"}: Prepared an expository writing on the calculation of the critical probability for Bernoulli percolation on \\(\mathbb{Z}^2\\), one of the most fundamental results of percolation theory.
 4. [Coding Theory](https://drive.google.com/file/d/1Xd3II_bqIr-EcoBD3KNRNI--NPylNQk4/view?usp=sharing){:target="_blank"}: Prepared a report of coding theory from Guruswami, Rudra, and Sudan’s book on the same, and covered Derivative, Folded Reed-Solomon codes, Algebraic-Geometric Codes, and BCH codes, and also covered List Decoding of Reed-Solomon codes, Elias-Bassalygo and Johnson bounds.
@@ -25,10 +25,41 @@ Click on the links to get the PDFs.
 ### High School and Early Undergraduate Writings
 
 1. [Dense Divisors of the Null Matrix](https://github.com/arponbasu/Linear_Algebra_SelfExploration_2ndSem/blob/main/Dense%20divisors%20of%20a%20null%20matrix.pdf){:target="_blank"}: Proved quick bound regarding the density (defined as the number of non-zero entries of a matrix divided by the size of total number of entries in the matrix) of matrices which multiply with each other to give the null matrix.
-2. [A Number Theoretic Identity](https://github.com/arponbasu/Linear_Algebra_SelfExploration_2ndSem/blob/main/A_Number_Theory_Theorem.pdf){:target="_blank"}: Proved an amusing number theoretic identity by counting the number of edges of a certain poset 
+2. [A Number Theoretic Identity](https://github.com/arponbasu/Linear_Algebra_SelfExploration_2ndSem/blob/main/A_Number_Theory_Theorem.pdf){:target="_blank"}: Proved an amusing number theoretic identity by counting the number of edges of a certain poset .
 3. [Fullerenes](https://github.com/arponbasu/Chemistry_Articles_HighSchool/blob/main/Fullerenes%20CALE%20Submission.pdf){:target="_blank"}: Wrote an article explaining why all fullerenes have exactly 12 pentagonal faces.
-4. [Silicates](https://github.com/arponbasu/Chemistry_Articles_HighSchool/blob/main/silicates%20CALE%20Submission.pdf){:target="_blank"}: Calculated the exact formulae of various silicate polymers
-5. [Copper Compound Complexes](https://github.com/arponbasu/Chemistry_Articles_HighSchool/blob/main/CopperCompoundColors.pdf){:target="_blank"}: Verified the predictions of Crystal Field Theory regarding the colors of copper compounds
+4. [Silicates](https://github.com/arponbasu/Chemistry_Articles_HighSchool/blob/main/silicates%20CALE%20Submission.pdf){:target="_blank"}: Calculated the exact formulae of various silicate polymers.
+5. [Copper Compound Complexes](https://github.com/arponbasu/Chemistry_Articles_HighSchool/blob/main/CopperCompoundColors.pdf){:target="_blank"}: Verified the predictions of Crystal Field Theory regarding the colors of copper compounds.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- <br><br>
 <a href="https://info.flagcounter.com/Zl3n"><img src="https://s11.flagcounter.com/count2/Zl3n/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
 
