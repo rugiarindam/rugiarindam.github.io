@@ -9,8 +9,7 @@ Click on the links to get the PDFs.
 ### Undergraduate Writings
 
 1. [The Goldreich-Levin Theorem](./Expository_Writings/Goldreich_Levin.pdf){:target="_blank"}: Studied the proof of the Goldreich-Levin theorem, and presented it (you can find the [slides here](./Expository_Writings/GL_Slides.pdf){:target="_blank"}).
-8. [Exact Exponential Algorithms](./Expository_Writings/BTP_thesis.pdf){:target="_blank"}: 
-<details>
+8. [Exact Exponential Algorithms](./Expository_Writings/BTP_thesis.pdf){:target="_blank"}: <details>
 <summary>Preview</summary>
 
 {% highlight ruby %}
