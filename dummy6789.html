@@ -4,7 +4,10 @@ title: Test
 ---
 
 <ol type="1">
-    <li> <a href="./Expository_Writings/log_concave_polynomials.pdf" target="_blank">Log-Concave Polynomials</a>: <a onclick="myFunction()"><span style="font-family: sans-serif, 'Open Sans';color: #999;font-size: 15px;">(Description)</span></a>
+    <li> <a href="./Expository_Writings/log_concave_polynomials.pdf" target="_blank">Log-Concave Polynomials</a>: <a onclick="myFunction()"><span style="font-family: sans-serif, 'Open Sans';color: #999;font-size: 15px;">(Description)</span></a><br>
+    <div style="border-radius:15px;-webkit-border-radius:15px;-moz-border-radius:15px;width:45%;float:center;background-color:#c2c2d6;margin-left:0;padding:10px;text-align:center;" id="log-conc_desc">
+        Prepared an expository report on the technique of log-concave polynomials. Covered a proof of Mason's conjecture, and deterministic and randomized matroid base counting algorithms, including a proof of the Mihail-Vazirani conjecture.
+    </div>
     </li>
     <li> <a href="./Expository_Writings/SoS.pdf" target="_blank">Sum-of-Squares Hierarchy</a>: 
     </li>
@@ -12,10 +15,12 @@ title: Test
 
 <script>
 function myFunction() {
-  let textbox = document.getElementById("log-conc_desc");
+  var x = document.getElementById("log-conc_desc");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
 }
 </script>
 
-<div style="border-radius:15px;-webkit-border-radius:15px;-moz-border-radius:15px;width:45%;float:center;background-color:#c2c2d6;margin-left:0;padding:10px;text-align:center;" id="log-conc_desc">
-    Blah blah
-</div>
