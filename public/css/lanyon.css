@@ -561,3 +561,18 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+
+.mypersonalclass {
+  border-radius:15px;
+  -webkit-border-radius:15px;
+  -moz-border-radius:15px;
+  width:100%;
+  float:center;
+  display:none;
+  font-size:medium;
+  background-color:#f0ffff;
+  margin-left:0;
+  padding:10px;
+  text-align:left;
+}
