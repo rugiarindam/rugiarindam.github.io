@@ -4,16 +4,16 @@ title: Test
 ---
 
 <ol type="1">
-    <li> <a href="./Expository_Writings/log_concave_polynomials.pdf" target="_blank">Log-Concave Polynomials</a> <a href="#" onclick="myFunction()"><span style="font-family: sans-serif, 'Open Sans';color: #999;font-size: 15px;">(Description)</span></a><br>
-    <div style="border-radius:15px;-webkit-border-radius:15px;-moz-border-radius:15px;width:100%;float:center;display:none;font-size: small;background-color:#c2c2d6;margin-left:0;padding:10px;text-align:left;" id="log-conc_desc">
+    <li> <a href="./Expository_Writings/log_concave_polynomials.pdf" target="_blank">Log-Concave Polynomials</a> <a href="#" onclick="myFunction(log-conc_desc)"><span style="font-family: sans-serif, 'Open Sans';color: #999;font-size: 15px;">(Description)</span></a><br>
+    <div style="border-radius:15px;-webkit-border-radius:15px;-moz-border-radius:15px;width:100%;float:center;display:none;font-size:medium;background-color:#c2c2d6;margin-left:0;padding:10px;text-align:left;" id="log-conc_desc">
         Prepared an expository report on the technique of log-concave polynomials, especially as pioneered by <a href="https://homes.cs.washington.edu/~shayan/" target="_blank">Shayan Oveis Gharan</a>, <a href="https://nimaanari.com" target="_blank">Nima Anari</a>. Covered a proof of Mason's conjecture, and deterministic and randomized matroid base counting algorithms, including a proof of the Mihail-Vazirani conjecture.
     </div>
     </li>
 </ol>
 
 <script>
-function myFunction() {
-  var x = document.getElementById("log-conc_desc");
+function myFunction(name) {
+  var x = document.getElementById(name);
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
