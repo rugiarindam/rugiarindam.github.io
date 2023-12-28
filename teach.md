@@ -4,7 +4,7 @@ title: Teaching and Service
 ---
 
 ## Talks and Outreach
-1. Instructed students (grades 8-12) on polynomials and functional equations for Math Olympiads, at a Mathematics Olympiad Orientation Program (December '23) conducted by AEES. Find the recordings of my talk [here](https://www.youtube.com/watch?v=wlj1LZDXABU){:target="_blank"}, and [here](https://www.youtube.com/watch?v=Y1wt6IJM9io){:target="_blank"}.
+1. Instructed students (grades 8-12) on polynomials and functional equations for Math Olympiads, at a Mathematics Olympiad Orientation Program (December '23) conducted by AEES. Find the recordings of my talks [here](https://www.youtube.com/watch?v=wlj1LZDXABU){:target="_blank"}, and [here](https://www.youtube.com/watch?v=Y1wt6IJM9io){:target="_blank"}.
 
 
 ## TAships
