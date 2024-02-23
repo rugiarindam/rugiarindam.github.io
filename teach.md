@@ -12,8 +12,8 @@ I have TA'd for 6 courses so far at IIT Bombay, and I've enjoyed this experience
 1. MA109 (Calculus), Fall 2021
 2. MA106 (Linear Algebra), Spring 2022
 3. CS228 (Logic for Computer Science), Spring 2023: I prepared [LaTeXed solutions](https://github.com/arponbasu/CS228_Tut_Solutions){:target="_blank"} to the tutorials for this course, which were referred to by hundreds of juniors.
-4. CS215 (Data Analysis and Interpretation), Fall 2023 
-5. CS208 (Automata and Logic), Spring 2024
-6. CS786 (Randomized Algorithms), Spring 2024
+4. [CS215 (Data Analysis and Interpretation), Fall 2023](https://www.cse.iitb.ac.in/~ajitvr/CS215_Fall2023/){:target="_blank"} 
+5. [CS208 (Automata and Logic), Spring 2024](https://www.cse.iitb.ac.in/~supratik/courses/cs208/index.html){:target="_blank"}
+6. [CS786 (Randomized Algorithms), Spring 2024](https://sites.google.com/view/kumarakash/teaching/cs-786-randomized-algorithms?authuser=0){:target="_blank"}
 
 
